@@ -1,22 +1,22 @@
-## Code_CollectFeatures:
-is the program code for collecting data set metrics.
+## [`/Code_CollectFeatures/`](https://github.com/sticeran/SnoringNoise/tree/master/Scripts_CollectingFeaturesAndLabels/Code_CollectFeatures/)
+is the program code for collecting data set metrics.  
 we use the same 16 well-defined product and project metrics as in the literature [1].
 
 ### Note that
-#### versionTag:
-this folder stores the release numbers to be collected for each project.
+[`/versionTag/`](https://github.com/sticeran/SnoringNoise/tree/master/Scripts_CollectingFeaturesAndLabels/versionTag/)
+this folder stores the release numbers to be collected for each project.  
 Before collecting a data set, it is needed to set the target release numbers in a target project to be collected.
-For each project, the set target release numbers is stored in the versionTag.txt under the "versionTag" folder.
+For each project, the set target release numbers is stored in the versionTag.txt under the "versionTag" folder.  
 Product and project metrics are not collected for the initial (minimum) release in the versionTag.txt of each project.
 The initial release serves as a cutoff point, and the release time is used to collect metrics for the next release.
 
-## Code_CollectLabels:
-is the program code for collecting data set labels.
+## [`/Code_CollectLabels/`](https://github.com/sticeran/SnoringNoise/tree/master/Scripts_CollectingFeaturesAndLabels/Code_CollectLabels/)
+is the program code for collecting data set labels.  
 For our newly collected 8 Apache projects, we used our reproduced MA-SZZ [2] approach , the state-of-the-art SZZ variant, to collect defect labels.
 Because previous studies reported that defect labels collected by the MA-SZZ approach had the highest (higher) accuracy and generated fewer mislabels.
 
 ### Note that
-#### issue_reports:
+[`/issue_reports/`](https://github.com/sticeran/SnoringNoise/tree/master/Scripts_CollectingFeaturesAndLabels/issue_reports/)
 this folder stores the issue reports downloaded for each project.
 
 ## References

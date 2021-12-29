@@ -4,7 +4,7 @@
 
 Our work aim to explore easy-to-use modeling techniques, instead of the training data refinement approach, to mitigate the negative influence of snoring noise in a training set. We propose simple modeling techniques to build five snoring-noise-insensitive defect prediction models: LOC, LOC-N, FEATURE, FEATURE-N, and FEATURE-LOC. In view of the effectiveness and simplicity of these models, we suggest using them as easy-to-implement baselines in future studies to demonstrate the usefulness of any newly proposed snoring-noise mitigation approaches.
 
-# Quick Start
+## Quick Start
 
 ### (1) [`/DataSets/`](https://github.com/sticeran/SnoringNoise/tree/master/DataSets/) Our defect data sets consists of two groups, the first one is the open-source defect data sets from the literature [1], and the second one is our newly collected defect data set from 8 Apache projects. Please refer to the [`/DataSets/README.md`](https://github.com/sticeran/SnoringNoise/tree/master/DataSets/README.md) for details.
 
@@ -15,5 +15,5 @@ Our work aim to explore easy-to-use modeling techniques, instead of the training
 
 If you use the data set (our newly collected defect data sets for 8 Apache projects) or the program code, please cite our paper "Don’t worry, we’ll get there: developing defect prediction models insensitive to snoring noise", thanks.
 
-# References
+## References
 [1]	D. Falessi, A. Ahluwalia, M.D. Penta. The impact of dormant defects on defect prediction: a study of 19 apache projects. ACM Transactions on Software Engineering and Methodology, 31 (4), 2022: 1–26.
