@@ -12,7 +12,7 @@ The third parameter (optional) is a binary control variable indicating whether t
 ![File directory form](https://raw.githubusercontent.com/sticeran/SnoringNoise/master/SnoringNoiseProgram/img/File%20directory%20form.png)
 
 ## Example of program operation:
-![Run command with two parameters](https://raw.githubusercontent.com/sticeran/SnoringNoise/master/SnoringNoiseProgram/img/Run%20command%20with%20two%20parameters.png)
+![Run command with two parameters](https://raw.githubusercontent.com/sticeran/SnoringNoise/master/SnoringNoiseProgram/img/Run%20command%20with%20two%20parameters.png)  
 ![Run command with three parameters](https://raw.githubusercontent.com/sticeran/SnoringNoise/master/SnoringNoiseProgram/img/Run%20command%20with%20three%20parameters.png)
 
 ## References
