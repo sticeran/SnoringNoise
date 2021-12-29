@@ -1,0 +1,376 @@
+issueKey,type,resolution,status,createdDateEpoch,resolvedDateEpoch
+FLUME-3018,New Feature,Unresolved,Open,2016-10-26 16:08:37,
+FLUME-3019,Bug,Unresolved,Open,2016-10-31 11:18:59,
+FLUME-3020,Improvement,Fixed,Resolved,2016-11-01 22:35:20,2016-11-10 07:51:53
+FLUME-3021,New Feature,Unresolved,Patch Available,2016-11-07 17:59:59,
+FLUME-3022,Bug,Not A Bug,Closed,2016-11-14 17:59:05,2017-01-04 17:04:59
+FLUME-3023,Bug,Unresolved,Open,2016-11-15 19:57:31,
+FLUME-3024,Bug,Unresolved,Open,2016-11-16 15:16:45,
+FLUME-3025,Improvement,Fixed,Resolved,2016-11-16 23:50:14,2016-11-22 05:43:12
+FLUME-3026,Improvement,Unresolved,Patch Available,2016-11-18 17:00:15,
+FLUME-3027,Bug,Fixed,Resolved,2016-11-19 09:50:04,2016-12-06 15:32:31
+FLUME-3028,Improvement,Unresolved,Open,2016-11-20 23:47:05,
+FLUME-3029,Sub-task,Unresolved,Open,2016-11-20 23:56:24,
+FLUME-3030,Improvement,Unresolved,Open,2016-11-21 00:54:27,
+FLUME-3031,Bug,Fixed,Resolved,2016-11-23 01:44:16,2016-12-07 01:32:00
+FLUME-3032,Bug,Unresolved,Open,2016-11-25 10:48:28,
+FLUME-3033,New Feature,Fixed,Resolved,2016-11-29 13:22:44,2019-09-27 20:22:29
+FLUME-3034,Improvement,Unresolved,Open,2016-12-04 04:13:40,
+FLUME-3035,Bug,Unresolved,Open,2016-12-17 11:34:04,
+FLUME-3036,New Feature,Unresolved,Patch Available,2016-12-26 17:21:57,
+FLUME-3037,Question,Not A Problem,Resolved,2016-12-28 16:54:04,2016-12-28 23:43:56
+FLUME-3038,Improvement,Unresolved,Open,2017-01-02 12:19:59,
+FLUME-3039,Bug,Unresolved,Patch Available,2017-01-04 16:50:54,
+FLUME-3040,Bug,Unresolved,Open,2017-01-11 03:14:50,
+FLUME-3041,Bug,Unresolved,Open,2017-01-14 17:02:12,
+FLUME-3042,Bug,Unresolved,Open,2017-01-17 10:52:21,
+FLUME-3043,Bug,Fixed,Resolved,2017-01-18 11:47:29,2017-04-17 05:29:45
+FLUME-3044,Improvement,Unresolved,Patch Available,2017-01-18 13:05:27,
+FLUME-3045,Improvement,Unresolved,Open,2017-01-18 21:58:41,
+FLUME-3046,Bug,Fixed,Resolved,2017-01-20 19:38:32,2017-09-13 03:59:32
+FLUME-3047,Bug,Unresolved,Open,2017-01-23 12:16:46,
+FLUME-3048,Bug,Unresolved,Open,2017-01-23 19:40:19,
+FLUME-3049,Bug,Fixed,Resolved,2017-01-25 21:54:36,2017-02-02 01:46:48
+FLUME-3050,Improvement,Fixed,Resolved,2017-02-02 16:27:00,2018-08-28 19:42:46
+FLUME-3051,Documentation,Fixed,Resolved,2017-02-02 17:24:12,2018-11-21 18:24:37
+FLUME-3052,Bug,Unresolved,Open,2017-02-06 05:53:19,
+FLUME-3053,Documentation,Unresolved,Open,2017-02-08 15:56:27,
+FLUME-3054,Bug,Unresolved,Patch Available,2017-02-10 18:01:09,
+FLUME-3055,Bug,Not A Problem,Closed,2017-02-13 16:36:10,2017-02-13 17:09:57
+FLUME-3056,Bug,Fixed,Resolved,2017-02-20 21:26:46,2018-03-09 19:08:55
+FLUME-3057,Bug,Fixed,Resolved,2017-02-22 14:53:09,2017-08-24 23:25:45
+FLUME-3058,Bug,Unresolved,Open,2017-02-23 15:34:01,
+FLUME-3059,Bug,Unresolved,Open,2017-02-23 19:54:26,
+FLUME-3060,Bug,Unresolved,Open,2017-02-24 17:19:39,
+FLUME-3061,Bug,Unresolved,Open,2017-02-25 01:21:44,
+FLUME-3062,Bug,Unresolved,Open,2017-02-25 01:24:41,
+FLUME-3063,Bug,Unresolved,Open,2017-03-01 01:03:35,
+FLUME-3064,Bug,Unresolved,Open,2017-03-02 02:36:53,
+FLUME-3065,Improvement,Unresolved,Patch Available,2017-03-02 20:02:17,
+FLUME-3066,Question,Unresolved,Open,2017-03-06 19:20:24,
+FLUME-3067,Bug,Unresolved,Open,2017-03-07 16:16:36,
+FLUME-3068,Bug,Unresolved,Patch Available,2017-03-08 16:52:39,
+FLUME-3069,Bug,Not A Problem,Resolved,2017-03-09 11:26:36,2017-03-10 10:30:46
+FLUME-3070,Improvement,Unresolved,Open,2017-03-09 15:07:50,
+FLUME-3071,Request,Unresolved,Open,2017-03-10 22:50:46,
+FLUME-3072,Improvement,Fixed,Resolved,2017-03-15 00:34:49,2017-06-21 22:11:30
+FLUME-3073,Bug,Unresolved,Open,2017-03-15 16:11:33,
+FLUME-3074,Bug,Not A Bug,Resolved,2017-03-20 17:04:31,2017-04-08 17:54:05
+FLUME-3075,Bug,Unresolved,Open,2017-03-21 07:10:24,
+FLUME-3076,Documentation,Unresolved,Open,2017-03-21 22:37:39,
+FLUME-3077,Question,Unresolved,Open,2017-03-24 11:47:08,
+FLUME-3078,Bug,Unresolved,Open,2017-03-28 21:49:58,
+FLUME-3079,Bug,Unresolved,Open,2017-03-29 12:32:26,
+FLUME-3080,Bug,Fixed,Resolved,2017-03-31 17:52:51,2017-04-09 18:33:43
+FLUME-3081,Improvement,Unresolved,Patch Available,2017-04-06 03:52:00,
+FLUME-3082,Question,Unresolved,Open,2017-04-06 10:55:25,
+FLUME-3083,Bug,Fixed,Resolved,2017-04-08 12:38:33,2017-04-28 03:10:58
+FLUME-3084,Bug,Unresolved,Open,2017-04-12 10:45:29,
+FLUME-3085,Bug,Fixed,Resolved,2017-04-14 05:07:19,2017-05-09 05:05:14
+FLUME-3086,Bug,Unresolved,Open,2017-04-14 16:00:49,
+FLUME-3087,Wish,Fixed,Resolved,2017-04-21 16:55:02,2018-11-14 00:44:26
+FLUME-3088,Bug,Unresolved,Open,2017-04-27 23:10:15,
+FLUME-3089,Bug,Unresolved,Open,2017-05-06 21:27:34,
+FLUME-3090,New Feature,Unresolved,Open,2017-05-09 14:58:27,
+FLUME-3091,Bug,Unresolved,Open,2017-05-11 22:02:06,
+FLUME-3092,Improvement,Fixed,Resolved,2017-05-16 00:53:55,2017-05-17 03:55:42
+FLUME-3093,Task,Fixed,Resolved,2017-05-18 20:57:37,2017-08-08 17:57:39
+FLUME-3094,Bug,Unresolved,Open,2017-05-19 16:39:31,
+FLUME-3095,New Feature,Unresolved,Open,2017-05-20 21:25:41,
+FLUME-3096,New Feature,Unresolved,Patch Available,2017-05-22 17:07:22,
+FLUME-3097,Bug,Unresolved,Open,2017-05-24 11:42:51,
+FLUME-3098,New Feature,Unresolved,Patch Available,2017-05-25 01:51:01,
+FLUME-3099,Bug,Unresolved,Open,2017-05-25 15:04:29,
+FLUME-3100,Improvement,Fixed,Resolved,2017-05-25 15:11:50,2017-06-13 18:10:31
+FLUME-3101,Bug,Fixed,Resolved,2017-06-01 18:13:55,2018-11-23 05:00:03
+FLUME-3102,Bug,Unresolved,In Progress,2017-06-03 04:23:01,
+FLUME-3103,Bug,Unresolved,Open,2017-06-03 04:38:06,
+FLUME-3104,Improvement,Unresolved,Open,2017-06-08 18:25:32,
+FLUME-3105,Bug,Unresolved,Open,2017-06-09 15:05:23,
+FLUME-3106,Bug,Resolved,Resolved,2017-06-09 16:59:21,2018-11-13 04:25:33
+FLUME-3107,Bug,Resolved,Resolved,2017-06-09 17:23:29,2018-11-13 04:26:11
+FLUME-3108,Bug,Unresolved,Open,2017-06-12 11:27:44,
+FLUME-3109,Improvement,Unresolved,Open,2017-06-13 21:24:34,
+FLUME-3110,Bug,Unresolved,Open,2017-07-03 23:51:11,
+FLUME-3111,Bug,Unresolved,Open,2017-07-04 17:32:56,
+FLUME-3112,Bug,Fixed,Resolved,2017-07-05 16:45:19,2017-08-25 02:20:24
+FLUME-3113,Bug,Unresolved,Open,2017-07-05 16:49:02,
+FLUME-3114,Bug,Fixed,Resolved,2017-07-05 23:55:23,2018-11-12 22:01:16
+FLUME-3115,Dependency upgrade,Fixed,Resolved,2017-07-06 00:47:05,2017-12-08 21:27:27
+FLUME-3116,Improvement,Unresolved,Open,2017-07-07 05:40:44,
+FLUME-3117,Bug,Fixed,Resolved,2017-07-07 17:31:59,2018-03-09 19:08:27
+FLUME-3118,Improvement,Unresolved,Open,2017-07-08 06:44:46,
+FLUME-3119,Bug,Unresolved,Open,2017-07-08 14:41:27,
+FLUME-3120,Question,Unresolved,Open,2017-07-13 10:05:10,
+FLUME-3121,Bug,Unresolved,Open,2017-07-19 00:21:16,
+FLUME-3122,Bug,Unresolved,Open,2017-07-19 13:45:26,
+FLUME-3123,Question,Unresolved,Open,2017-07-19 17:49:44,
+FLUME-3124,Bug,Unresolved,Open,2017-07-19 21:32:26,
+FLUME-3125,Bug,Unresolved,Open,2017-07-19 21:39:51,
+FLUME-3126,Bug,Unresolved,Open,2017-07-19 21:46:43,
+FLUME-3127,Bug,Fixed,Resolved,2017-07-19 22:36:15,2017-09-11 21:08:28
+FLUME-3128,Bug,Won't Fix,Resolved,2017-07-19 22:45:29,2017-07-19 23:02:37
+FLUME-3129,Bug,Unresolved,Open,2017-07-19 23:03:48,
+FLUME-3130,Bug,Unresolved,Open,2017-07-19 23:41:54,
+FLUME-3131,Bug,Fixed,Resolved,2017-07-19 23:50:46,2017-08-25 02:20:59
+FLUME-3132,Bug,Fixed,Resolved,2017-07-20 00:00:13,2017-08-25 02:21:33
+FLUME-3133,Bug,Fixed,Resolved,2017-07-20 16:47:15,2018-11-14 20:30:27
+FLUME-3134,Bug,Unresolved,Open,2017-07-20 18:51:38,
+FLUME-3135,Bug,Fixed,Resolved,2017-07-26 10:03:48,2017-07-26 15:53:43
+FLUME-3136,Bug,Unresolved,Open,2017-07-27 21:33:33,
+FLUME-3137,Bug,Unresolved,Open,2017-07-31 17:45:24,
+FLUME-3138,Bug,Unresolved,Open,2017-07-31 18:22:27,
+FLUME-3139,Bug,Unresolved,Open,2017-07-31 22:38:15,
+FLUME-3140,Question,Unresolved,Open,2017-08-02 15:58:14,
+FLUME-3141,Bug,Fixed,Resolved,2017-08-08 22:53:14,2017-08-09 21:02:25
+FLUME-3142,New Feature,Fixed,Resolved,2017-08-09 17:38:34,2018-06-21 18:23:52
+FLUME-3143,Bug,Won't Fix,Resolved,2017-08-11 00:19:06,2018-11-12 22:04:36
+FLUME-3144,Improvement,Fixed,Resolved,2017-08-11 22:10:41,2017-08-21 18:12:36
+FLUME-3145,Documentation,Fixed,Resolved,2017-08-14 14:50:56,2017-09-14 15:44:21
+FLUME-3146,Bug,Unresolved,Patch Available,2017-08-15 06:47:18,
+FLUME-3147,Bug,Unresolved,Open,2017-08-15 21:39:30,
+FLUME-3148,Improvement,Unresolved,Open,2017-08-16 17:43:08,
+FLUME-3149,Improvement,Unresolved,Open,2017-08-18 09:54:54,
+FLUME-3150,Bug,Unresolved,Open,2017-08-18 19:20:36,
+FLUME-3151,Bug,Unresolved,Open,2017-08-19 02:15:42,
+FLUME-3152,Bug,Fixed,Resolved,2017-08-21 20:25:27,2017-08-24 00:31:02
+FLUME-3153,Bug,Unresolved,Open,2017-08-25 01:21:04,
+FLUME-3154,Sub-task,Fixed,Resolved,2017-08-28 16:53:30,2017-08-30 22:09:35
+FLUME-3155,Bug,Fixed,Resolved,2017-08-28 19:45:56,2017-08-28 21:36:07
+FLUME-3156,Documentation,Unresolved,Open,2017-08-31 09:39:28,
+FLUME-3157,Bug,Fixed,Resolved,2017-09-02 00:59:50,2017-09-04 18:21:01
+FLUME-3158,Sub-task,Fixed,Resolved,2017-09-04 23:11:56,2017-11-21 18:32:38
+FLUME-3159,Sub-task,Fixed,Resolved,2017-09-04 23:14:44,2017-10-05 22:11:21
+FLUME-3160,Bug,Unresolved,Open,2017-09-05 21:53:26,
+FLUME-3161,Documentation,Unresolved,Open,2017-09-06 19:41:23,
+FLUME-3162,Umbrella,Fixed,Resolved,2017-09-07 22:36:44,2017-11-21 18:43:46
+FLUME-3163,Sub-task,Fixed,Resolved,2017-09-07 22:46:56,2017-09-21 22:05:32
+FLUME-3164,Sub-task,Fixed,Resolved,2017-09-08 19:36:00,2017-09-21 22:05:38
+FLUME-3165,Sub-task,Fixed,Resolved,2017-09-08 19:37:20,2017-09-21 22:05:43
+FLUME-3166,Sub-task,Fixed,Resolved,2017-09-08 19:37:41,2017-09-21 22:05:48
+FLUME-3167,Sub-task,Fixed,Resolved,2017-09-08 19:38:08,2017-09-21 22:06:05
+FLUME-3168,Sub-task,Fixed,Resolved,2017-09-08 19:38:33,2017-09-21 22:06:11
+FLUME-3169,Sub-task,Fixed,Resolved,2017-09-08 19:39:10,2017-11-21 18:43:40
+FLUME-3170,Bug,Fixed,Resolved,2017-09-08 19:39:25,2018-11-12 22:06:37
+FLUME-3171,Sub-task,Fixed,Resolved,2017-09-08 19:39:41,2017-11-21 18:43:32
+FLUME-3172,Sub-task,Fixed,Resolved,2017-09-08 19:40:22,2017-11-21 18:43:24
+FLUME-3173,Bug,Fixed,Resolved,2017-09-11 16:19:25,2017-09-12 21:26:31
+FLUME-3174,Bug,Fixed,Resolved,2017-09-11 22:32:16,2017-09-12 22:22:48
+FLUME-3175,Bug,Fixed,Resolved,2017-09-12 04:03:49,2017-09-13 19:18:18
+FLUME-3176,Bug,Unresolved,Open,2017-09-12 04:07:21,
+FLUME-3177,Bug,Unresolved,Open,2017-09-12 17:11:00,
+FLUME-3178,Sub-task,Fixed,Resolved,2017-09-14 00:25:57,2017-09-21 22:06:17
+FLUME-3179,Bug,Unresolved,Patch Available,2017-09-15 03:31:15,
+FLUME-3180,Test,Invalid,Resolved,2017-09-19 16:27:25,2018-11-12 22:09:49
+FLUME-3181,Improvement,Unresolved,Open,2017-09-23 04:14:49,
+FLUME-3182,Improvement,Fixed,Resolved,2017-09-28 09:47:43,2018-11-12 22:10:19
+FLUME-3183,Task,Fixed,Resolved,2017-10-02 01:48:41,2018-11-23 22:48:18
+FLUME-3184,Test,Unresolved,Open,2017-10-06 16:45:27,
+FLUME-3185,Bug,Unresolved,Open,2017-10-10 09:43:44,
+FLUME-3186,Improvement,Fixed,Resolved,2017-10-18 19:21:03,2017-10-20 17:50:12
+FLUME-3187,New Feature,Unresolved,Patch Available,2017-10-25 15:14:35,
+FLUME-3188,Bug,Unresolved,Open,2017-10-27 14:19:32,
+FLUME-3189,Improvement,Duplicate,Resolved,2017-11-02 02:56:54,2017-11-03 18:01:32
+FLUME-3190,Bug,Unresolved,In Progress,2017-11-02 13:37:20,
+FLUME-3191,Bug,Unresolved,Open,2017-11-07 15:04:44,
+FLUME-3192,Question,Unresolved,Open,2017-11-07 15:12:16,
+FLUME-3193,Bug,Unresolved,Open,2017-11-07 17:52:15,
+FLUME-3194,Dependency upgrade,Fixed,Resolved,2017-11-08 23:28:30,2017-12-05 21:59:01
+FLUME-3195,Test,Fixed,Resolved,2017-11-13 18:44:36,2017-11-16 20:55:40
+FLUME-3196,Bug,Fixed,Resolved,2017-11-20 17:34:40,2017-11-21 14:44:17
+FLUME-3197,Improvement,Unresolved,Open,2017-11-22 01:40:24,
+FLUME-3198,Improvement,Unresolved,Open,2017-11-25 15:36:20,
+FLUME-3199,Dependency upgrade,Duplicate,Resolved,2017-11-29 23:51:47,2017-12-08 22:10:08
+FLUME-3200,Bug,Not A Problem,Resolved,2017-12-04 17:18:55,2017-12-04 17:28:50
+FLUME-3201,Bug,Fixed,Resolved,2017-12-05 21:39:16,2017-12-06 16:52:57
+FLUME-3202,New Feature,Unresolved,Open,2017-12-09 01:05:46,
+FLUME-3203,Bug,Unresolved,Open,2017-12-21 16:57:44,
+FLUME-3204,Bug,Unresolved,Open,2017-12-22 15:37:09,
+FLUME-3205,Improvement,Unresolved,Patch Available,2017-12-26 22:48:54,
+FLUME-3206,Bug,Unresolved,Open,2017-12-27 16:06:57,
+FLUME-3207,Bug,Unresolved,Patch Available,2017-12-27 21:21:09,
+FLUME-3208,Bug,Unresolved,Open,2018-01-08 04:10:19,
+FLUME-3209,Bug,Unresolved,Open,2018-01-10 18:06:19,
+FLUME-3210,Question,Unresolved,Open,2018-01-12 15:25:30,
+FLUME-3211,Question,Unresolved,Open,2018-01-12 23:31:16,
+FLUME-3212,Bug,Unresolved,Open,2018-01-16 01:59:07,
+FLUME-3213,Bug,Unresolved,Open,2018-01-17 15:07:30,
+FLUME-3214,Improvement,Unresolved,In Progress,2018-01-18 21:46:00,
+FLUME-3215,Bug,Unresolved,Open,2018-01-24 13:05:34,
+FLUME-3216,Improvement,Unresolved,Open,2018-02-02 12:23:14,
+FLUME-3217,Bug,Unresolved,Open,2018-02-16 22:50:04,
+FLUME-3218,Bug,Fixed,Resolved,2018-02-23 17:10:45,2018-02-23 17:36:49
+FLUME-3219,Improvement,Unresolved,Open,2018-03-02 17:21:32,
+FLUME-3220,Bug,Unresolved,Open,2018-03-06 05:37:00,
+FLUME-3221,Bug,Unresolved,Open,2018-03-07 17:48:11,
+FLUME-3222,Bug,Fixed,Resolved,2018-03-07 23:50:36,2018-06-06 01:48:02
+FLUME-3223,Improvement,Fixed,Resolved,2018-03-13 23:48:50,2018-10-15 17:21:59
+FLUME-3224,Bug,Unresolved,Open,2018-03-15 14:36:03,
+FLUME-3225,Question,Fixed,Resolved,2018-03-16 06:31:18,2018-03-20 02:43:17
+FLUME-3226,Bug,Fixed,Resolved,2018-03-16 18:09:36,2018-03-22 16:02:30
+FLUME-3227,Improvement,Fixed,Resolved,2018-03-20 00:19:49,2018-08-17 20:41:16
+FLUME-3228,Documentation,Fixed,Resolved,2018-03-21 02:47:35,2018-11-14 00:26:31
+FLUME-3229,Improvement,Unresolved,Open,2018-04-11 21:29:22,
+FLUME-3230,Improvement,Unresolved,Open,2018-04-13 18:04:02,
+FLUME-3231,Improvement,Unresolved,Open,2018-04-26 19:04:49,
+FLUME-3232,Bug,Unresolved,Open,2018-04-27 18:57:53,
+FLUME-3233,Bug,Unresolved,Open,2018-05-03 14:10:15,
+FLUME-3234,Bug,Unresolved,Open,2018-05-03 14:42:50,
+FLUME-3235,Bug,Unresolved,Open,2018-05-03 17:01:22,
+FLUME-3236,Bug,Unresolved,Open,2018-05-29 11:49:25,
+FLUME-3237,Bug,Fixed,Resolved,2018-06-01 20:13:55,2018-07-11 22:44:56
+FLUME-3238,Question,Unresolved,Open,2018-06-04 02:27:43,
+FLUME-3239,Improvement,Fixed,Resolved,2018-06-04 18:18:44,2018-09-18 21:31:57
+FLUME-3240,Improvement,Unresolved,Open,2018-06-06 11:27:52,
+FLUME-3241,Bug,Unresolved,Open,2018-06-08 00:26:20,
+FLUME-3242,Improvement,Unresolved,Open,2018-06-08 20:59:26,
+FLUME-3243,Sub-task,Fixed,Resolved,2018-06-08 21:00:25,2018-11-23 18:11:01
+FLUME-3244,Sub-task,Unresolved,Open,2018-06-08 21:00:53,
+FLUME-3245,Bug,Unresolved,Open,2018-06-13 17:49:01,
+FLUME-3246,Improvement,Fixed,Resolved,2018-06-19 20:48:53,2018-08-29 14:00:30
+FLUME-3247,Bug,Won't Fix,Resolved,2018-06-20 19:49:45,2018-07-02 20:13:17
+FLUME-3248,Documentation,Unresolved,Open,2018-06-28 20:36:03,
+FLUME-3249,Improvement,Unresolved,Open,2018-06-29 16:57:09,
+FLUME-3250,New Feature,Unresolved,Open,2018-06-29 16:58:10,
+FLUME-3251,Improvement,Unresolved,Open,2018-06-29 17:00:15,
+FLUME-3252,New Feature,Unresolved,Open,2018-06-29 18:01:08,
+FLUME-3253,Bug,Fixed,Resolved,2018-07-04 01:54:01,2018-11-15 01:24:55
+FLUME-3254,Bug,Not A Problem,Resolved,2018-07-09 14:37:25,2018-07-18 15:26:15
+FLUME-3255,Bug,Unresolved,Patch Available,2018-07-12 09:30:38,
+FLUME-3256,New Feature,Unresolved,Patch Available,2018-07-14 05:54:28,
+FLUME-3257,Bug,Fixed,Resolved,2018-07-14 11:08:25,2018-07-14 11:10:07
+FLUME-3258,New Feature,Unresolved,Patch Available,2018-07-14 13:00:50,
+FLUME-3259,Question,Unresolved,Open,2018-07-16 09:40:04,
+FLUME-3260,New Feature,Unresolved,Open,2018-07-25 07:25:41,
+FLUME-3261,Bug,Unresolved,Open,2018-07-27 08:47:37,
+FLUME-3262,Improvement,Unresolved,Patch Available,2018-07-28 05:02:41,
+FLUME-3263,New Feature,Unresolved,Patch Available,2018-07-28 05:41:12,
+FLUME-3264,Bug,Unresolved,Patch Available,2018-07-28 21:30:53,
+FLUME-3265,Bug,Duplicate,Resolved,2018-08-06 14:18:42,2018-08-21 15:43:56
+FLUME-3266,Bug,Unresolved,Open,2018-08-09 17:37:59,
+FLUME-3267,Bug,Fixed,Closed,2018-08-13 19:57:50,2018-09-15 10:55:44
+FLUME-3268,New Feature,Unresolved,Open,2018-08-14 03:43:27,
+FLUME-3269,Improvement,Fixed,Resolved,2018-08-15 20:43:10,2018-10-05 17:51:39
+FLUME-3270,Bug,Fixed,Resolved,2018-08-28 23:23:10,2018-09-06 14:30:55
+FLUME-3271,Documentation,Unresolved,Patch Available,2018-08-30 20:24:05,
+FLUME-3272,Question,Unresolved,Open,2018-09-05 22:55:33,
+FLUME-3273,Bug,Unresolved,Open,2018-09-07 17:49:17,
+FLUME-3274,Bug,Won't Fix,Resolved,2018-09-26 18:15:57,2018-11-20 21:12:51
+FLUME-3275,Improvement,Fixed,Resolved,2018-10-11 22:31:52,2018-11-06 21:46:45
+FLUME-3276,Improvement,Fixed,Resolved,2018-10-11 22:32:12,2018-11-06 21:46:28
+FLUME-3277,Bug,Unresolved,Open,2018-10-22 17:31:38,
+FLUME-3278,Bug,Fixed,Resolved,2018-10-26 17:36:07,2018-11-02 03:11:33
+FLUME-3279,Bug,Unresolved,Open,2018-11-02 11:40:43,
+FLUME-3280,Improvement,Fixed,Resolved,2018-11-06 21:59:20,2018-11-09 01:13:45
+FLUME-3281,Improvement,Fixed,Resolved,2018-11-07 23:50:07,2018-11-21 18:24:56
+FLUME-3282,Improvement,Fixed,Resolved,2018-11-08 16:17:52,2018-11-21 18:25:21
+FLUME-3283,Umbrella,Unresolved,Open,2018-11-13 05:45:38,
+FLUME-3284,Sub-task,Fixed,Resolved,2018-11-13 05:48:12,2018-11-23 23:10:00
+FLUME-3285,Sub-task,Fixed,Resolved,2018-11-13 05:49:14,2018-11-29 23:09:25
+FLUME-3286,Sub-task,Fixed,Resolved,2018-11-13 05:49:37,2018-11-29 23:09:12
+FLUME-3287,Sub-task,Fixed,Resolved,2018-11-13 05:49:57,2018-11-29 22:36:34
+FLUME-3288,Sub-task,Fixed,Resolved,2018-11-13 05:50:15,2018-11-26 22:15:18
+FLUME-3289,Sub-task,Fixed,Resolved,2018-11-13 05:50:33,2018-11-29 22:32:53
+FLUME-3290,Sub-task,Fixed,Resolved,2018-11-13 05:50:49,2019-01-08 23:35:59
+FLUME-3291,Sub-task,Fixed,Resolved,2018-11-13 05:51:10,2019-01-08 23:36:09
+FLUME-3292,Sub-task,Fixed,Resolved,2018-11-13 05:51:25,2019-01-08 23:36:30
+FLUME-3293,Sub-task,Fixed,Resolved,2018-11-13 05:51:43,2018-11-29 22:41:40
+FLUME-3294,Bug,Fixed,Resolved,2018-11-22 20:33:23,2018-11-23 04:59:54
+FLUME-3295,Sub-task,Fixed,Resolved,2018-11-23 23:53:35,2018-12-04 20:19:13
+FLUME-3296,Sub-task,Fixed,Resolved,2018-11-23 23:54:21,2018-12-04 20:19:24
+FLUME-3297,Bug,Unresolved,Open,2018-11-26 19:07:52,
+FLUME-3298,Bug,Fixed,Resolved,2018-11-26 19:15:09,2019-01-06 00:23:06
+FLUME-3299,Bug,Fixed,Resolved,2018-11-26 21:17:29,2018-11-28 17:34:19
+FLUME-3300,Improvement,Incomplete,Resolved,2018-12-03 15:38:33,2019-07-08 05:50:59
+FLUME-3301,New Feature,Won't Fix,Resolved,2018-12-04 01:06:54,2020-05-25 19:46:05
+FLUME-3302,Sub-task,Fixed,Resolved,2018-12-04 20:20:20,2019-01-08 23:35:25
+FLUME-3303,Sub-task,Fixed,Resolved,2018-12-05 00:17:51,2019-01-06 00:23:18
+FLUME-3304,Bug,Unresolved,Open,2018-12-05 20:57:53,
+FLUME-3305,Question,Abandoned,Resolved,2018-12-07 06:03:35,2019-06-01 03:34:47
+FLUME-3306,Bug,Unresolved,Open,2018-12-17 21:19:45,
+FLUME-3307,Task,Unresolved,Open,2018-12-18 16:51:49,
+FLUME-3308,Bug,Unresolved,Open,2018-12-26 12:59:14,
+FLUME-3309,Improvement,Unresolved,Open,2018-12-27 10:18:47,
+FLUME-3310,Improvement,Unresolved,Open,2019-01-04 04:39:11,
+FLUME-3311,Bug,Fixed,Resolved,2019-01-04 17:06:50,2019-02-08 06:14:23
+FLUME-3312,Bug,Unresolved,Open,2019-01-09 06:13:11,
+FLUME-3313,Bug,Unresolved,Open,2019-01-18 19:13:59,
+FLUME-3314,Bug,Fixed,Resolved,2019-01-28 19:13:37,2019-02-07 19:41:06
+FLUME-3315,Bug,Unresolved,Open,2019-01-30 22:46:26,
+FLUME-3316,Bug,Fixed,Resolved,2019-01-31 17:27:47,2019-01-31 21:34:16
+FLUME-3317,Documentation,Unresolved,Open,2019-02-14 22:54:12,
+FLUME-3318,Bug,Unresolved,Open,2019-02-15 16:32:30,
+FLUME-3319,Question,Unresolved,Open,2019-02-25 18:03:44,
+FLUME-3320,Bug,Unresolved,Open,2019-02-28 15:34:04,
+FLUME-3321,Bug,Unresolved,Open,2019-03-05 10:39:25,
+FLUME-3322,Bug,Unresolved,Open,2019-03-05 16:15:48,
+FLUME-3323,Improvement,Unresolved,Open,2019-03-07 19:40:07,
+FLUME-3324,Improvement,Unresolved,Open,2019-03-25 17:30:45,
+FLUME-3325,Bug,Unresolved,Open,2019-03-26 23:14:59,
+FLUME-3326,Bug,Unresolved,Open,2019-04-02 06:08:02,
+FLUME-3327,Improvement,Unresolved,Patch Available,2019-04-03 17:58:34,
+FLUME-3328,Bug,Fixed,Resolved,2019-04-04 15:35:24,2019-05-04 02:53:10
+FLUME-3329,Bug,Unresolved,Open,2019-04-11 18:00:02,
+FLUME-3330,Bug,Unresolved,Open,2019-04-13 11:02:09,
+FLUME-3331,Bug,Unresolved,Open,2019-04-18 11:31:55,
+FLUME-3332,Bug,Unresolved,Open,2019-05-08 13:28:37,
+FLUME-3333,Bug,Unresolved,Open,2019-05-08 23:34:53,
+FLUME-3334,Bug,Unresolved,Open,2019-05-11 18:29:26,
+FLUME-3335,Improvement,Unresolved,In Progress,2019-05-24 12:42:10,
+FLUME-3336,Improvement,Unresolved,In Progress,2019-05-24 12:48:50,
+FLUME-3337,Bug,Unresolved,Open,2019-06-13 10:02:56,
+FLUME-3338,Improvement,Fixed,Resolved,2019-06-13 23:04:19,2019-10-23 20:23:03
+FLUME-3339,Dependency upgrade,Unresolved,Open,2019-07-04 04:04:55,
+FLUME-3340,Choose from below ...,Unresolved,Open,2019-07-11 16:32:33,
+FLUME-3341,Bug,Unresolved,Patch Available,2019-08-18 22:05:38,
+FLUME-3342,Bug,Unresolved,Open,2019-08-22 16:09:57,
+FLUME-3343,Bug,Unresolved,Open,2019-08-29 15:36:22,
+FLUME-3344,Documentation,Unresolved,Open,2019-09-08 01:54:52,
+FLUME-3345,Improvement,Fixed,Resolved,2019-09-19 10:33:55,2019-11-13 09:55:53
+FLUME-3346,Bug,Unresolved,Open,2019-10-24 01:44:46,
+FLUME-3347,Bug,Fixed,Resolved,2019-11-19 15:47:51,2019-11-26 20:17:29
+FLUME-3348,Bug,Unresolved,Open,2019-12-26 17:45:38,
+FLUME-3349,Bug,Unresolved,Patch Available,2019-12-28 17:53:22,
+FLUME-3350,Bug,Unresolved,Open,2020-01-09 21:43:06,
+FLUME-3351,Bug,Unresolved,Open,2020-01-09 22:05:57,
+FLUME-3352,Bug,Unresolved,Open,2020-01-16 19:56:29,
+FLUME-3353,Wish,Unresolved,Open,2020-02-12 16:57:26,
+FLUME-3354,Improvement,Unresolved,Patch Available,2020-02-14 11:42:26,
+FLUME-3355,Improvement,Unresolved,Open,2020-02-15 22:14:58,
+FLUME-3356,Bug,Unresolved,Open,2020-02-21 16:01:58,
+FLUME-3357,Improvement,Unresolved,Open,2020-03-01 20:27:44,
+FLUME-3358,Bug,Not A Bug,Resolved,2020-03-04 19:13:57,2020-03-04 20:42:24
+FLUME-3359,Bug,Unresolved,Open,2020-03-06 15:10:27,
+FLUME-3360,Bug,Unresolved,Open,2020-03-06 20:20:29,
+FLUME-3361,Bug,Unresolved,Open,2020-03-27 03:31:39,
+FLUME-3362,Question,Invalid,Resolved,2020-04-01 21:43:24,2020-04-06 07:56:27
+FLUME-3363,Improvement,Unresolved,Open,2020-04-10 17:48:56,
+FLUME-3364,Bug,Unresolved,Open,2020-04-26 21:44:48,
+FLUME-3365,Bug,Unresolved,Open,2020-05-09 14:15:01,
+FLUME-3366,Bug,Unresolved,Open,2020-05-11 22:35:38,
+FLUME-3367,Bug,Unresolved,Open,2020-05-21 15:37:07,
+FLUME-3368,Improvement,Fixed,Resolved,2020-05-21 23:18:50,2020-05-21 23:25:43
+FLUME-3369,Bug,Unresolved,Open,2020-05-22 05:52:24,
+FLUME-3370,Bug,Unresolved,Open,2020-07-01 05:50:43,
+FLUME-3371,Bug,Unresolved,Open,2020-07-24 00:38:43,
+FLUME-3372,Blog - New Blog Request,Unresolved,Open,2020-07-24 00:41:49,
+FLUME-3373,Bug,Unresolved,Open,2020-07-26 17:42:55,
+FLUME-3374,Bug,Unresolved,Open,2020-07-26 19:46:52,
+FLUME-3375,Bug,Unresolved,Open,2020-07-26 23:13:15,
+FLUME-3376,Bug,Unresolved,Open,2020-07-26 23:31:32,
+FLUME-3377,Bug,Unresolved,Open,2020-07-30 14:52:53,
+FLUME-3378,Bug,Unresolved,Open,2020-09-08 20:55:34,
+FLUME-3379,Bug,Unresolved,Open,2020-11-11 23:51:15,
+FLUME-3380,IT Help,Unresolved,Open,2020-11-17 14:48:46,
+FLUME-3381,Bug,Unresolved,Open,2020-11-18 19:33:49,
+FLUME-3382,Question,Unresolved,Open,2020-12-07 11:00:02,
+FLUME-3383,New Feature,Unresolved,Open,2020-12-31 09:56:06,
+FLUME-3384,New Feature,Unresolved,Open,2021-01-12 11:20:54,
+FLUME-3385,Dependency upgrade,Unresolved,Open,2021-03-05 08:23:06,
+FLUME-3386,Dependency upgrade,Unresolved,Open,2021-03-05 08:36:00,
+FLUME-3387,Dependency upgrade,Unresolved,Open,2021-03-05 08:40:23,
+FLUME-3388,Dependency upgrade,Unresolved,Open,2021-03-22 15:12:01,
+FLUME-3389,Improvement,Unresolved,Open,2021-03-24 20:10:41,
+FLUME-3390,Bug,Unresolved,Open,2021-03-26 16:46:12,
+FLUME-3391,Bug,Unresolved,Open,2021-05-20 11:53:51,
+FLUME-3392,Bug,Unresolved,Open,2021-06-08 15:08:47,
